@@ -1,0 +1,22 @@
+{
+  "name": "note-mini",
+  "version": "1.0.0",
+  "description": "西瓜笔记微信小程序",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigxigua/note-mini.git"
+  },
+  "keywords": [
+    "西瓜笔记"
+  ],
+  "author": "TaoBaoZhong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigxigua/note-mini/issues"
+  },
+  "homepage": "https://github.com/bigxigua/note-mini#readme"
+}
